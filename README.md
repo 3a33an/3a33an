@@ -15,6 +15,8 @@ I've been fascinated by video games since my childhood so I started to learn dif
   </a>
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=snourian)
+![](https://hit.yhype.me/github/profile?user_id=8577835)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

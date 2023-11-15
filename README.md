@@ -1,17 +1,29 @@
 ## ABOUT ME:
-Hello there!👋. Welcome to my page!
-I'm Sassan Nourian.I'm a passionate game dev, game designer, game writer, sound artist and 3D artist. I love video games and I love making them.
+Hello there Welcome to my page!👋
+I'm Sassan Nourian, a passionate game dev, game designer, game writer, sound artist and 3D artist. I love video games and I love making them!
 I'm fluent in English and know some Japanese as well.
 
 ---
 
-#### I have experiences in:
-languages:
-  C/C++, C#, Python, HTML, CSS, JavaScript, Typescript and GDScript.
-Libraries, frameworks and tools:
-  SDL, OPENGL, React, Bootstrap, Jquery, MySql, Unity, Godot, Photoshop, Blender, Ableton, FL Studio and Cubase
+### I have experiences in:
+- languages:
+  - C/C++
+  - C#
+  - Python
+  - HTML, CSS, JavaScript and Typescript
+  - GDScript.
+- Libraries, frameworks and tools:
+  - SDL and SFML
+  - OPENGL
+  - React, Bootstrap, Jquery and MySql
+  - Unity and Godot
+  - Photoshop and Blender
+  - Ableton, FL Studio and Cubase
 
 ---
+
+### Projects:
+https://masdagamestudio.itch.io/
 
 #### 📫 How to reach me:
 <div align="center">

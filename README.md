@@ -1,16 +1,15 @@
 ## ABOUT ME:
-Hello there!👋. I'm Sassan Nourian.
-I've been fascinated by video games since my childhood so I started to learn different skill sets relative to the field.
+Hello there!👋. Welcome to my page!
+I'm Sassan Nourian.I'm a passionate game dev, game designer, game writer, sound artist and 3D artist. I love video games and I love making them.
+I'm fluent in English and know some Japanese as well.
 
 ---
+
 #### I have experiences in:
-game design and level design
-programming languages such as C/C++, C# ,Python and etc...
-various 2D & 3D software such as photoshop and blender
-various DAWs such as FL studio, Cubase and Ableton Live
-
-
-
+languages:
+  C/C++, C#, Python, HTML, CSS, JavaScript, Typescript and GDScript.
+Libraries, frameworks and tools:
+  SDL, OPENGL, React, Bootstrap, Jquery, MySql, Unity, Godot, Photoshop, Blender, Ableton, FL Studio and Cubase
 
 ---
 
